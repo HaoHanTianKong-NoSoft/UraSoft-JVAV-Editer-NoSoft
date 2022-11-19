@@ -5,11 +5,11 @@ JVAV 由张浩扬博士发明，目前已经发展到了第六代
 ## 关于 JVAV.SPACE
 JVAV.SPACE 是 HiDream Studio 与 UraSoft Studio 的联合项目，旨在方便大家理解和学习我们的这款 JVAV 语言
 ## 关于UraSoft JVAV Editer NoSoft
-我们与 UraSoft 团队经过长期磨合，研究出了一套独立于现有 JVAV 体系的 JVAV 编程语言\
+我们与 UraSoft 团队经过长期磨合，研究出了一套独立于现有 JVAV 体系的 JVAV NoSoft 编程语言\
 我们的 UraSoft JVAV Editer NoSoft主要由 NoSoft Studio 进行开发\
 是根据JVAV Editer项目改编,并规定了 JVAV NoSoft语言的专属文件后缀 .nosoftjvr\
 ## 关于本开源项目
-由JVAV Editer改编扩展的网页项目，会一直更新，并同步原开源项目代码逻辑与部分代码
+由JVAV Editer改编扩展的网页项目，会不定时更新，并同步原开源项目代码逻辑与部分代码
 ## 可以实现的功能
 + #### 基本功能
 - [x] 编写 JVAV 代码
